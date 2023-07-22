@@ -9,4 +9,5 @@ urlpatterns = [
     path('api/v1/', include('GenericAPIVewAndMixins4.urls')),
     path('api/v1/', include('GenericAPIVewAndMixins5.urls')),
     path('api/v1/', include('GenericAPIVewAndMixins6.urls')),
+    path('api/v1/', include('GenericAPIVewAndMixins7.urls')),
 ]
