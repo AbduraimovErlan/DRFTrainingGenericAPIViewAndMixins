@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'GenericAPIVewAndMixins5',
     'GenericAPIVewAndMixins6',
     'GenericAPIVewAndMixins7',
+    'GenericAPIVewAndMixins8',
 ]
 
 MIDDLEWARE = [
